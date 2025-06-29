@@ -24,6 +24,7 @@ Hospitals must report on timely care for patients with sepsis and septic shock. 
 ## 📈 Sample Output
 ![Dashboard](architecture_diagram.png)
 ## 📈 Dashboard
+![Dashboard Preview](dashboard/dashboard.png)
 
 This project includes a Power BI dashboard template for visualizing sepsis bundle compliance performance.
 
