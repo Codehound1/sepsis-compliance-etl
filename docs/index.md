@@ -4,7 +4,8 @@ This is a data engineering and visualization project built using  mock data. The
 
 ## 📊 Dashboard Preview
 
-![Dashboard](../dashboard/dashboard.png)
+![Dashboard](dashboard.png)
+
 
 ## 📂 Files
 
