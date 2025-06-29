@@ -1,6 +1,6 @@
 # 🧬 Sepsis Compliance ETL Project
 
-This is a data engineering and visualization project built using Epic Clarity mock data. The goal is to measure patient compliance with sepsis bundle metrics.
+This is a data engineering and visualization project built using  mock data. The goal is to measure patient compliance with sepsis bundle metrics.
 
 ## 📊 Dashboard Preview
 
@@ -8,7 +8,8 @@ This is a data engineering and visualization project built using Epic Clarity mo
 
 ## 📂 Files
 
-- [Power BI Template (`.pbit`)](../dashboard/SepsisComplianceTemplate.pbit)
+- [Power BI Template (`.pbit`)](SepsisComplianceTemplate.pbit)
+ 
 - [Source Repo on GitHub](https://github.com/Codehound1/sepsis-compliance-etl)
 
 ---
