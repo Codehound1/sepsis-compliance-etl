@@ -15,4 +15,4 @@ Hospitals must report on timely care for patients with sepsis and septic shock. 
 
 ---
 
-Built by Jimmy Ajuwa[Codehound1](https://github.com/Codehound1)
+Built by [Jimmy Ajuwa] [Codehound1](https://github.com/Codehound1)
