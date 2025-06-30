@@ -12,7 +12,7 @@
 Hospitals must report on timely care for patients with sepsis and septic shock. This project extracts clinical data, calculates compliance with SEP-1 measures, and visualizes results.
 
 ## 🧠 Solution
-- Extracted encounter and patient data from Epic Caboodle
+- Extracted encounter and patient data from database.
 - Applied SEP-1 measure logic for lactate, blood cultures, and antibiotics
 - Calculated compliance flags and exported to dashboard-ready format
 
