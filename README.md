@@ -17,7 +17,7 @@ Hospitals must report on timely care for patients with sepsis and septic shock. 
 - Calculated compliance flags and exported to dashboard-ready format
 
 ## 🛠 Tech Stack
-- SQL (Caboodle)
+- SQL 
 - Python (Pandas)
 - PostgreSQL
 - Excel / Power BI
